@@ -18,7 +18,7 @@ int main(){// Comienzo del prgrama
     int verificacion, verificacionDos; // para la verificacion para ver si se puede hacer una comparacion
     float panaderia[7]; // precio por pieza por dia
     float panaderiaDos[7]; // precio por Kilogramos por dia en dolares
-    float pieza[6], kilo[6], dolar, resultadoTotal, resultadoTotalDolar, dolarAbs, bsAdolar, panesK; // float
+    float pieza[7], kilo[7], dolar, resultadoTotal, resultadoTotalDolar, dolarAbs, bsAdolar, panesK; // float
 
     //Fin de Variables
 
